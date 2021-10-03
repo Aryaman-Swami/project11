@@ -1,0 +1,36 @@
+
+*,* ::before, * ::after{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+html{
+    
+    font-family: "Jost" , sans-serif;
+}
+
+.canvas{
+    
+
+    display: block;
+    margin:0 40%;
+}
+.button{
+
+    
+    color:#fff;
+    background-color: darkblue;
+    padding:15px;
+    border-radius: 5px;
+    border: none;
+    margin:0 40%;
+   
+    
+    
+
+}
+
+.canvas{
+    border:2px solid black;
+    border-bottom: 2px solid #eb2f06;
+}
